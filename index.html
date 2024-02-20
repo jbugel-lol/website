@@ -33,7 +33,14 @@
 
 		<main>
 			<section class="text-center font-ds fsize-h2">
-				Welcome to my website! :3
+				<span id="typing"></span>
+				<script src="https://unpkg.com/typed.js@2.1.0/dist/typed.umd.js"></script>
+				<script>
+					var typed = new Typed("#typing", {
+						strings: ["^500Hi, I'm JBugel!^1000", "Welcome to my website! :3"],
+						typeSpeed: 75,
+					});
+				</script>
 			</section>
 			<section class="about-me about-me-title text-center">
 				<h2>About Me</h2>
