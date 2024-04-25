@@ -1,13 +1,26 @@
 <!DOCTYPE html>
 <html lang="en">
-	<head>
-		<meta charset="utf-8" />
-		<link rel="icon" href="./favicon.png" />
-		<meta name="viewport" content="width=device-width, initial-scale=1" />
-		%sveltekit.head%
-	</head>
+    <head>
+        <meta charset="utf-8" />
+        <link rel="icon" href="./favicon.png" />
+        <meta name="viewport" content="width=device-width, initial-scale=1" />
+        <meta charset="UTF-8">
+        <meta name="viewport" content="width=device-width, initial-scale=1.0">
+        <meta property="og:type" content="website">
+        <meta property="og:title" content="JBugel's Website">
+        <meta property="og:url" content="https://jbugel.xyz">
+        <meta property="og:description" content="Discover my projects, profile and more">
+        <meta property="og:image" content="https://example.com/images/website-preview.png">
+        <meta name="twitter:card" content="summary_large_image">
+        <meta name="twitter:site" content="@jbugel">
+        <meta name="twitter:creator" content="@jbugel">
+        <meta name="twitter:title" content="JBugel's Website">
+        <meta name="twitter:description" content="Discover my projects, profile and more">
+        <meta name="twitter:image" content="https://example.com/images/website-preview.png">
+        <title>jbugel</title>
+        %sveltekit.head%
+    </head>
 
-	<body data-sveltekit-preload-data="hover">
-		<div style="display: contents">%sveltekit.body%</div>
-	</body>
+    <body data-sveltekit-preload-data="hover" class="h-screen w-screen bg-cat-base">
+        <div style="display: contents">%sveltekit.body%</div>
 </html>
