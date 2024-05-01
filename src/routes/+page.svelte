@@ -18,17 +18,17 @@
             <div class="dropdown dropdown-hover">
             <button
                 tabindex="-1"
-                class="btn m-1 bg-cat-mantle text-cat-subtext0"
+                class="btn m-1 bg-cat-mantle text-cat-subtext0 hover:bg-cat-crust"
                 aria-haspopup="true"
                 aria-expanded="false">Quick Links</button
             >
             <ul
                 tabindex="-1"
-                class="dropdown-content z-10 menu p-2 shadow bg-cat-mantle rounded-box w-52 ml-[-84px]"
+                class="dropdown-content z-10 menu p-2 shadow bg-cat-mantle rounded-box w-52 ml-[-84px] "
                 aria-hidden="true"
             >
                 <li>
-                    <a class="text-cat-subtext0 flex items-center" href="/projects">
+                    <a class="text-cat-subtext0 flex items-center hover:bg-cat-crust" href="/projects">
                         <img
                             src="/file-folder.png"
                             alt="Projects"
@@ -37,7 +37,7 @@
                     </a>
                 </li>
                 <li>
-                    <a class="text-cat-subtext0 flex items-center" href="/music">
+                    <a class="text-cat-subtext0 flex items-center hover:bg-cat-crust" href="/music">
                         <img
                             src="/headphones.png"
                             alt="Music"
@@ -46,7 +46,7 @@
                     </a>
                 </li>
                 <li>
-                    <a class="text-cat-subtext0 flex items-center" href="/contact">
+                    <a class="text-cat-subtext0 flex items-center hover:bg-cat-crust" href="/contact">
                         <img
                             src="/envelope.png"
                             alt="Contact Me"
