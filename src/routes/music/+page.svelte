@@ -2,7 +2,7 @@
 <!-- svelte-ignore a11y-missing-attribute -->
 <html>
     <head>
-        <meta http-equiv="refresh" content="0; url=https://github.com/jbugel-lol" />
+        <meta http-equiv="refresh" content="0; url=https://songwhip.com/jbugel" />
         <meta charset="UTF-8" />
         <meta name="robots" content="noindex" />
         <meta name="viewport" content="width=device-width, initial-scale=1.0" />
