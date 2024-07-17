@@ -11,7 +11,7 @@
     <body class="h-screen w-screen bg-cat-base flex justify-center items-center">
         <div class="flex flex-col items-center justify-center">
             <p class="text-cat-text">
-                If you are not redirected automatically, <a href="https://jbugel.xyz/music"
+                If you are not redirected automatically, <a href="https://songwhip.com/jbugel"
                     >click here</a
                 >.
             </p>

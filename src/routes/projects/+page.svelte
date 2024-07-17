@@ -2,7 +2,7 @@
 <!-- svelte-ignore a11y-missing-attribute -->
 <html>
     <head>
-        <meta http-equiv="refresh" content="0; url=https://github.com/jbugel-lol" />
+        <meta http-equiv="refresh" content="0; url=https://github.com/jbugel-lol?tab=repositories" />
         <meta charset="UTF-8" />
         <meta name="robots" content="noindex" />
         <meta name="viewport" content="width=device-width, initial-scale=1.0" />
@@ -11,7 +11,8 @@
     <body class="h-screen w-screen bg-cat-base flex justify-center items-center">
         <div class="flex flex-col items-center justify-center">
             <p class="text-cat-text">
-                If you are not redirected automatically, <a href="https://github.com/jbugel-lol"
+                This Site is still under construction. 
+                Meanwhile, if you are not redirected automatically, <a href="https://github.com/jbugel-lol"
                     >click here</a
                 >.
             </p>
